@@ -1,6 +1,8 @@
 // Kruskal algorith gives every square a value from 0 to 719. When loaded they have a different cell set then becomes the same at the end
 //down = false
 //right = false
+
+//#RGBI translucent
 const mazeWidth = 36, mazeHeight = 20, wallWidth = 6;
 let maze, mazeDone = false, squareSize = 0;
 // A collection of variables to store the details of the maze
